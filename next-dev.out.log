@@ -1,0 +1,15 @@
+
+> enterprise-hr-payroll-system@0.1.0 dev
+> next dev --port 3001
+
+▲ Next.js 16.2.5 (Turbopack)
+- Local:         http://localhost:3001
+- Network:       http://192.168.10.223:3001
+✓ Ready in 1557ms
+Creating turbopack project {
+  dir: 'C:\\Users\\kahya\\Downloads\\Programs\\Enterprise HR + Payroll System',
+  testMode: true
+}
+
+○ Compiling / ...
+ GET / 200 in 10.8s (next.js: 7.4s, application-code: 3.5s)
